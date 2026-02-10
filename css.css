@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+}
+.card{
+    width: 100%;
+    height: 90vh;
+    position: relative;
+    animation: infinite 1s ;
+    background-color: aqua;
+}
